@@ -1,4 +1,12 @@
 # MMS Data Engineering & Deep Learning Challenge
+It was open market challenge to get hire on Data Engineer role. I presented my profile and public URL shared to complete in THREE days and i did it.
+
+### Khurram Nazir (München)
+#### Khurram.Deutsch@yahoo.com
+##### 2021
+------------------------------
+
+
 
 This repository contains a comprehensive data preprocessing, feature engineering, and predictive modeling pipeline developed for the **MediaMarktSaturn (MMS) Engineering Challenge**. The primary objective of this project is to build an end-to-end machine learning solution to accurately predict daily store sales (`sales_per_day`) using structured retail data.
 
